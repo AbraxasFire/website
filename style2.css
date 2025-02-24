@@ -19,7 +19,7 @@ main {
     display: inline-block;
     border-radius: 50%;
     overflow: hidden;
-    border: 15px solid orange;
+    border: 1px solid orange;
 }
 
 .arto {
