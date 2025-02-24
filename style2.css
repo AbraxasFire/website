@@ -30,13 +30,11 @@ main {
 }
 
 .itsher {
-    display: block;
+    display: inline-block;
     width: 200px;
     height: 200px;
     object-fit: cover;
-    /*display: inline-block;*/
     border-radius: 50%;
-    overflow: hidden;
     border: 16px solid orange;
 }
 
